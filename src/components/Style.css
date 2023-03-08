@@ -1,0 +1,28 @@
+.Icon{
+    height:100px;
+    width: 100px;
+}
+.medical_Kit_img{
+    height:100px;
+    width: 100px;
+    margin-left: 25%;
+}
+#registration_form{
+    width: 46%;
+    margin-left: 20%;
+    margin-top: 8%;
+    
+}
+
+#Login_form{
+
+    width: 30%;
+    margin-left: 20%;
+    margin-top: 8%;
+    
+}
+.card1{
+    width: 30%;
+    margin-left: 5%;
+    margin-top: 2%;
+}
